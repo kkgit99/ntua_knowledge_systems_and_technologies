@@ -1,0 +1,15 @@
+<http://example.org/ns/tt0325980> <http://example.org/props/country> <http://example.org/ns/USA> .
+<http://example.org/ns/tt0120737> <http://example.org/props/actor> <http://example.org/ns/Sean_Astin> .
+<http://example.org/ns/tt0325980> <http://example.org/props/director> <http://example.org/ns/Gore_Verbinski> .
+<http://example.org/ns/tt0120737> <http://example.org/props/actor> <http://example.org/ns/Cate_Blanchett> .
+<http://example.org/ns/tt0120737> <http://example.org/props/budget> "$ 93000000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.org/ns/tt0120737> <http://example.org/props/country> <http://example.org/ns/New_Zealand> .
+<http://example.org/ns/tt0120737> <http://example.org/props/country> <http://example.org/ns/USA> .
+<http://example.org/ns/tt0120737> <http://example.org/props/actor> <http://example.org/ns/Sala_Baker> .
+<http://example.org/ns/tt0325980> <http://example.org/props/actor> <http://example.org/ns/Orlando_Bloom> .
+<http://example.org/ns/tt0120737> <http://example.org/props/actor> <http://example.org/ns/Sean_Bean> .
+<http://example.org/ns/tt0120737> <http://example.org/props/director> <http://example.org/ns/Peter_Jackson> .
+<http://example.org/ns/tt0325980> <http://example.org/props/budget> "$ 140000000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.org/ns/tt0120737> <http://example.org/props/actor> <http://example.org/ns/Orlando_Bloom> .
+<http://example.org/ns/tt0325980> <http://example.org/props/title> "Pirates_of_the_Caribbean:_The_Curse_of_the_Black_Pearl"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/tt0120737> <http://example.org/props/title> "The_Lord_of_the_Rings:_The_Fellowship_of_the_Ring"^^<http://www.w3.org/2001/XMLSchema#string> .

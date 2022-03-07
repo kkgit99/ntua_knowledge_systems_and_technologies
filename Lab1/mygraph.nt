@@ -1,0 +1,20 @@
+<http://example.org/ns/tt0201977> <http://example.org/props/actor> <http://example.org/ns/Russell_Crowe> .
+<http://example.org/ns/tt0201977> <http://example.org/props/actor> <http://example.org/ns/Cate_Blanchett> .
+<http://example.org/ns/tt0201977> <http://example.org/props/actor> <http://example.org/ns/William_Hurt> .
+<http://example.org/ns/tt0201977> <http://example.org/props/director> <http://example.org/ns/Ridley_Scott> .
+<http://example.org/ns/tt0201977> <http://example.org/props/country> <http://example.org/ns/USA> .
+<http://example.org/ns/tt0201977> <http://example.org/props/country> <http://example.org/ns/UK> .
+<http://example.org/ns/tt0201977> <http://example.org/props/title> "Robin_Hood"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/tt0201977> <http://example.org/props/box_office> "$ 321700000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.org/ns/tt0202088> <http://example.org/props/actor> <http://example.org/ns/Russell_Crowe> .
+<http://example.org/ns/tt0202088> <http://example.org/props/actor> <http://example.org/ns/Joaquin_Phoenix> .
+<http://example.org/ns/tt0202088> <http://example.org/props/director> <http://example.org/ns/Ridley_Scott> .
+<http://example.org/ns/tt0202088> <http://example.org/props/country> <http://example.org/ns/USA> .
+<http://example.org/ns/tt0202088> <http://example.org/props/country> <http://example.org/ns/UK> .
+<http://example.org/ns/tt0202088> <http://example.org/props/title> "Gladiator"^^<http://www.w3.org/2001/XMLSchema#string> .
+<http://example.org/ns/tt0202088> <http://example.org/props/budget> "$ 103000000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.org/ns/tt0202199> <http://example.org/props/director> <http://example.org/ns/Gore_Verbinski> .
+<http://example.org/ns/tt0202199> <http://example.org/props/actor> <http://example.org/ns/Daniel_Craig> .
+<http://example.org/ns/tt0202199> <http://example.org/props/country> <http://example.org/ns/Gore_Verbinski> .
+<http://example.org/ns/tt0202199> <http://example.org/props/box_office> "$ 880700000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://example.org/ns/tt0202199> <http://example.org/props/title> "Spectre"^^<http://www.w3.org/2001/XMLSchema#string> .
