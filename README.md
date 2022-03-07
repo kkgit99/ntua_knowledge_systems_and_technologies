@@ -21,7 +21,8 @@ Enrich previous ontology with external data from external knowledge data bases (
 
 ### Topics
 - [SPARQL](https://www.w3.org/TR/rdf-sparql-query/) Query Language
-- [Wikidata] (https://www.wikidata.org/wiki/Wikidata:Main_Page)
-- [Wikidata Query Service] (https://query.wikidata.org/)
-- [Protégé 5.5.0 ](http://protegeproject.github.io/protege/)
+- [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+- [Wikidata Query Service](https://query.wikidata.org/)
+- [OWL](https://en.wikipedia.org/wiki/Web_Ontology_Language)
+- [Protégé 5.5.0](http://protegeproject.github.io/protege/)
 - [GraphDB](https://graphdb.ontotext.com)
